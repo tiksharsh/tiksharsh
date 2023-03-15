@@ -1,4 +1,4 @@
-<h1 align="centre">Hello,</h1>
+<h1 align="centre">Hello, I’m Harshoday</h1>
 
 
 <img align="right" alt="Artificial Intelligence" src="https://media.giphy.com/media/Riu2QxvmfrvzRUs6Rv/giphy.gif" width="150"/>
