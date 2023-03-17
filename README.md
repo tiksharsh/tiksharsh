@@ -28,7 +28,7 @@
 <br>
 
 
-<h3 align="left">You can also connect with me on:</h3>
+<h3 align="left">You can also connect me on:</h3>
 <!-- #### You can also connect with me on: -->
 
 [<img align="left" alt="c17hawke | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
