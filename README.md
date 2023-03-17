@@ -49,8 +49,3 @@
 [Pexels]: https://www.pexels.com/@c17hawke
 [YouTube]: https://www.youtube.com/c17hawke
 -->
-
-
-
- 
-
