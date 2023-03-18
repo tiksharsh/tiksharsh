@@ -4,10 +4,16 @@
 
 <br>
 <br>
+### I have technical experience and interest in -
+* Machine Learning 
+* Deep Learning
+* Natural Language Processing 
+* MLOps
+* Computer vision
 
+<!--
 - 🔭 <i>I’m currently working on <b>Machine Learning, Natural Language Processing </b></i>
 - 🌱 <i>I’m currently learning <b>MLOps, Computer Vision</b></i>
-<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
