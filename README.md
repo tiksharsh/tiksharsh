@@ -11,7 +11,8 @@
 * Deep Learning
 * Natural Language Processing 
 * MLOps
-* Computer Vision
+* Generative AI
+* LangChain, LlamaIndex
 
 <!--
 - 🔭 <i>I’m currently working on <b>Machine Learning, Natural Language Processing </b></i>
