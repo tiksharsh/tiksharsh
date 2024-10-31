@@ -12,7 +12,7 @@
 * Natural Language Processing 
 * MLOps
 * Generative AI
-* LangChain, LlamaIndex
+<!--* LangChain, LlamaIndex -->
 
 <!--
 - 🔭 <i>I’m currently working on <b>Machine Learning, Natural Language Processing </b></i>
